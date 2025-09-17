@@ -1,0 +1,85 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\control de stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|solutionrelative:control de stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}|EntidadesBD\\EntidadesBD.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\entidadesbd\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}|EntidadesBD\\EntidadesBD.csproj|solutionrelative:entidadesbd\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BD1F71EB-D310-4828-B112-08289FBB69D4}|Entidades\\Entidades.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BD1F71EB-D310-4828-B112-08289FBB69D4}|Entidades\\Entidades.csproj|solutionrelative:entidades\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}|EntidadesDAO\\EntidadesDAO.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\entidadesdao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}|EntidadesDAO\\EntidadesDAO.csproj|solutionrelative:entidadesdao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\Program.cs",
+              "RelativeDocumentMoniker": "Control de stock\\Program.cs",
+              "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\Program.cs",
+              "RelativeToolTip": "Control de stock\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:23:33.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EntidadesBD\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EntidadesBD\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-17T02:29:24.279Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Entidades\\Producto.cs",
+              "RelativeDocumentMoniker": "Entidades\\Producto.cs",
+              "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Entidades\\Producto.cs",
+              "RelativeToolTip": "Entidades\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T19:23:29.635Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesDAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "EntidadesDAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesDAO\\ProductoDAO.cs",
+              "RelativeToolTip": "EntidadesDAO\\ProductoDAO.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-14T18:21:17.915Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
