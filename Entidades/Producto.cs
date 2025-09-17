@@ -2,30 +2,15 @@
 {
     public class Producto
     {
-        string nombre;
-        string descripcion;
-        int cantidad;
-
-        public Producto(string nombre, string descripcion, int cantidad)
-        {
-            this.nombre = nombre;
-            this.descripcion = descripcion;
-            this.cantidad = cantidad;
-        }
-        public string Nombre 
-        { 
-            get => nombre; 
-            set =>  nombre = !String.IsNullOrEmpty(value) ? value : Nombre; 
-        }
-        public string Descripcion 
-        { get => descripcion; 
-          set => descripcion = !String.IsNullOrEmpty(value) ? value : Descripcion; 
-        }
-        public int Cantidad { get => cantidad; set => cantidad = value; }
+        public int Id { get; set; }
+        public string Nombre { get; set; }
+        public string Descripcion { get; set; }
+        public double Precio { get; set; }
+        public int Cantidad { get; set; }
 
         public override string ToString()
         {
-            return $"{Nombre} | {Descripcion} | {Cantidad}";
+            return $"{Id} | {Descripcion} | {Nombre} | {Precio} | {Cantidad}";
         }
     }
 }
