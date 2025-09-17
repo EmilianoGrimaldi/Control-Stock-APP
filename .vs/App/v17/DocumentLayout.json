@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\control de stock\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|solutionrelative:control de stock\\app.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|c:\\users\\grima\\desktop\\app control de stock\\app\\control de stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6FA9D96B-2A57-43F5-863C-9EF355381756}|Control de stock\\Control de stock.csproj|solutionrelative:control de stock\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -31,31 +35,45 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "App.config",
+              "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\App.config",
+              "RelativeDocumentMoniker": "Control de stock\\App.config",
+              "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\App.config",
+              "RelativeToolTip": "Control de stock\\App.config",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2025-09-17T02:46:29.763Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\Program.cs",
               "RelativeDocumentMoniker": "Control de stock\\Program.cs",
               "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Control de stock\\Program.cs",
               "RelativeToolTip": "Control de stock\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB0AAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-09-14T19:23:33.694Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "ApplicationDbContext.cs",
               "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\ApplicationDbContext.cs",
               "RelativeDocumentMoniker": "EntidadesBD\\ApplicationDbContext.cs",
               "ToolTip": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\ApplicationDbContext.cs",
               "RelativeToolTip": "EntidadesBD\\ApplicationDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-09-17T02:29:24.279Z"
+              "WhenOpened": "2025-09-17T02:29:24.279Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Entidades\\Producto.cs",
               "RelativeDocumentMoniker": "Entidades\\Producto.cs",
@@ -67,7 +85,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "ProductoDAO.cs",
               "DocumentMoniker": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesDAO\\ProductoDAO.cs",
               "RelativeDocumentMoniker": "EntidadesDAO\\ProductoDAO.cs",
