@@ -7,8 +7,6 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Control de stock", "Control
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Entidades", "Entidades\Entidades.csproj", "{BD1F71EB-D310-4828-B112-08289FBB69D4}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesDAO", "EntidadesDAO\EntidadesDAO.csproj", "{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}"
-EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EntidadesBD", "EntidadesBD\EntidadesBD.csproj", "{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}"
 EndProject
 Global
@@ -25,10 +23,6 @@ Global
 		{BD1F71EB-D310-4828-B112-08289FBB69D4}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BD1F71EB-D310-4828-B112-08289FBB69D4}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{BD1F71EB-D310-4828-B112-08289FBB69D4}.Release|Any CPU.Build.0 = Release|Any CPU
-		{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{7A87999C-8DB0-4D7A-8B3E-08CD50AB88AD}.Release|Any CPU.Build.0 = Release|Any CPU
 		{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{BA12A503-5D6E-4E69-9CEC-D1FA6E22CCDB}.Release|Any CPU.ActiveCfg = Release|Any CPU

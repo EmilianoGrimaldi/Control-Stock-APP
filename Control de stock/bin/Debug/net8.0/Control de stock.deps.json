@@ -10,7 +10,6 @@
         "dependencies": {
           "Entidades": "1.0.0",
           "EntidadesBD": "1.0.0",
-          "EntidadesDAO": "1.0.0",
           "Microsoft.Data.SqlClient": "6.1.1",
           "Microsoft.EntityFrameworkCore": "9.0.9",
           "System.Configuration.ConfigurationManager": "9.0.9"
@@ -571,18 +570,6 @@
             "fileVersion": "1.0.0.0"
           }
         }
-      },
-      "EntidadesDAO/1.0.0": {
-        "dependencies": {
-          "Entidades": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.9"
-        },
-        "runtime": {
-          "EntidadesDAO.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
-        }
       }
     }
   },
@@ -892,11 +879,6 @@
       "sha512": ""
     },
     "EntidadesBD/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "EntidadesDAO/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

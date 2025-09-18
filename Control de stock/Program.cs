@@ -9,41 +9,11 @@ namespace Control_de_stock
         static void Main(string[] args)
         {
             
-            using (var context = new ApplicationDbContext())
+           ProductoDAO productoDAO = new ProductoDAO();
+            productoDAO.LeerTodos().ForEach(p =>
             {
-                // Ejemplo: Obtener todos los productos
-                try
-                {
-                    var productos = from p in context.Productos
-                                    select p;
-
-                    foreach (var producto in productos)
-                    {
-                        Console.WriteLine(producto.ToString());
-                    }
-                }
-                catch (Exception ex)
-                {
-                    Console.WriteLine($"Error: {ex.Message}");
-                }
-            }
-            //using (SqlConnection cs = new SqlConnection(stringConnection)) 
-            //{
-            //    try
-            //    {
-            //        cs.Open();
-            //        var productos = from p in cs.Productos;                                         
-
-            //        foreach (var p in productos)
-            //        {
-            //            Console.WriteLine(p);
-            //        }
-            //    }
-            //    catch (Exception ex)
-            //    {
-            //        Console.WriteLine($"{ex.Message} Conexion Exitosa");
-            //    }
-            //}        
+                Console.WriteLine(p.ToString());
+            });
         }
     }
 }

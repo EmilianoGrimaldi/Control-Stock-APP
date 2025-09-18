@@ -1,14 +1,11 @@
 ﻿using Entidades;
-using Microsoft.EntityFrameworkCore.SqlServer;
-using Microsoft.EntityFrameworkCore;    
-using System.Collections.Generic;
+using Microsoft.EntityFrameworkCore;
 using System.Configuration;
 
-namespace EntidadesBD
-{
-    // Define una clase pública llamada ApplicationDbContext que hereda de DbContext
+namespace ConfigBD
+{ // Define una clase pública llamada ProductoDAO que hereda de DbContext
     // DbContext es la clase base de Entity Framework que representa una sesión con la base de datos
-    public class ApplicationDbContext : DbContext
+    public class ConfigBD : DbContext
     {
         // Define una propiedad DbSet para la entidad Producto
         // Un DbSet representa una tabla en la base de datos y permite realizar operaciones CRUD

@@ -10,7 +10,6 @@
 
   <ItemGroup>
     <ProjectReference Include="..\EntidadesBD\EntidadesBD.csproj" />
-    <ProjectReference Include="..\EntidadesDAO\EntidadesDAO.csproj" />
     <ProjectReference Include="..\Entidades\Entidades.csproj" />
   </ItemGroup>
 

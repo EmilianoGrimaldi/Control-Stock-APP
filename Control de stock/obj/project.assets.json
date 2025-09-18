@@ -812,20 +812,6 @@
         "runtime": {
           "bin/placeholder/EntidadesBD.dll": {}
         }
-      },
-      "EntidadesDAO/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v8.0",
-        "dependencies": {
-          "Entidades": "1.0.0",
-          "Microsoft.EntityFrameworkCore": "9.0.9"
-        },
-        "compile": {
-          "bin/placeholder/EntidadesDAO.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/EntidadesDAO.dll": {}
-        }
       }
     }
   },
@@ -2022,18 +2008,12 @@
       "type": "project",
       "path": "../EntidadesBD/EntidadesBD.csproj",
       "msbuildProject": "../EntidadesBD/EntidadesBD.csproj"
-    },
-    "EntidadesDAO/1.0.0": {
-      "type": "project",
-      "path": "../EntidadesDAO/EntidadesDAO.csproj",
-      "msbuildProject": "../EntidadesDAO/EntidadesDAO.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net8.0": [
       "Entidades >= 1.0.0",
       "EntidadesBD >= 1.0.0",
-      "EntidadesDAO >= 1.0.0",
       "Microsoft.Data.SqlClient >= 6.1.1",
       "Microsoft.EntityFrameworkCore >= 9.0.9",
       "System.Configuration.ConfigurationManager >= 9.0.9"
@@ -2073,9 +2053,6 @@
           "projectReferences": {
             "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\EntidadesBD.csproj": {
               "projectPath": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesBD\\EntidadesBD.csproj"
-            },
-            "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesDAO\\EntidadesDAO.csproj": {
-              "projectPath": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\EntidadesDAO\\EntidadesDAO.csproj"
             },
             "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Entidades\\Entidades.csproj": {
               "projectPath": "C:\\Users\\grima\\Desktop\\App control de stock\\App\\Entidades\\Entidades.csproj"

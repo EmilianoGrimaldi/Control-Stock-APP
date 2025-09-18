@@ -80,6 +80,4 @@ C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.
 C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\System.Text.Json.dll
 C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\runtimes\browser\lib\net8.0\System.Text.Encodings.Web.dll
 C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\EntidadesBD.dll
-C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\EntidadesDAO.dll
 C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\EntidadesBD.pdb
-C:\Users\grima\Desktop\App control de stock\App\Control de stock\bin\Debug\net8.0\EntidadesDAO.pdb
